@@ -180,3 +180,6 @@ cython_debug/
 mnist1d_data/
 *mnist1d_data/
 mnist1d_data.pkl
+
+# data
+data/
